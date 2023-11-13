@@ -1,0 +1,1 @@
+const String myBaseUrl="http://192.168.1.5:1020/qnstv//api/";
